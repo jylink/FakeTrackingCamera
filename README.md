@@ -6,7 +6,7 @@ This is a fake camera system used to quickly test your object tracking program
 
 
 
-Imaging roll a seamless image into a cylinder and put a camera in the center, then it can do horizontal 360 degree rotation to observe the scene
+Imagine rolling a seamless image into a cylinder and putting a camera in the center, then it can do a horizontal 360 degree rotation to view the scene
 
 ![](https://github.com/jylink/FakeTrackingCamera/blob/main/imgs/cylinder.png)
 
@@ -15,10 +15,9 @@ Imaging roll a seamless image into a cylinder and put a camera in the center, th
 # Requirements
 
 ```
-torch
-opencv-contrib-python
 numpy
 torch
+opencv-contrib-python
 matplotlib
 pillow
 ```
